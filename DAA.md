@@ -1,5 +1,4 @@
 # Penjelasan Sederhana Tentang Time Complexity dan Big-O Notation
-
 ![](gm.png)
 
 Setiap programmer yang baik akan menggunakan cara yang paling efektif dan efisien dalam menyelesaikan suatu permasalahan. Dan untuk bisa melakukan hal tersebut, kita harus bisa meminimalisir kompleksitas dari algoritma yang kita gunakan.
@@ -9,7 +8,6 @@ Kompleksitas suatu algoritma dibagi menjadi 2, yaitu Time Complexity dan Space C
 Time Complexity adalah seberapa lama waktu yang diperlukan untuk menjalankan suatu algoritma. Sedangkan Space Complexity adalah seberapa besar memori yang kita gunakan untuk menjalankan suatu algoritma. Dan disini kita hanya akan membahas tentang Time Complexity.
 
 ## Algoritma
-
 Sebelum kita melanjutkan pembahasan, kita harus mengerti dulu apa itu algoritma/fungsi.
 
 ![](gm2.png)
@@ -42,7 +40,6 @@ Sederhananya, semua contoh yang ada diatas mengatakan bahwa “kita hanya akan m
 Terdapat beberapa macam time complexity, diantaranya:
 
 ## O(1) — Constant Time
- 
 Constant Time artinya banyaknya input yang diberikan kepada sebuah algoritma, tidak akan mempengaruhi waktu proses (runtime) dari algoritma tersebut.
 
 ```
@@ -164,7 +161,6 @@ Exponential Time biasanya digunakan dalam situasi dimana kita tidak terlalu tahu
 ![](gm12.png)
 
 ## Kesimpulan
-
 Sebagai programmer, kita sering kali dihadapkan dengan adanya beberapa solusi untuk sebuah permasalahan dan kita dibingungkan dengan pertanyaan “mana solusi yang lebih efisien?”.
 
 Dengan memahami Big-O Notation, kita akan lebih mudah dalam melihat mana algoritma yang lebih efisien yang bisa kita gunakan untuk menyelesaikan permasalahan yang sedang dihadapi.
